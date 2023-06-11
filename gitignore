@@ -3,3 +3,4 @@ venv/
 .idea/
 .pytest_cache/
 __pycache__/
+create_user_test.py
